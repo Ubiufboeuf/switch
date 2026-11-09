@@ -1,0 +1,19 @@
+
+:root {
+  color-scheme: dark;
+
+  --ui-bg: #0d1119;
+  --ui-surface: #202733;
+  --ui-surface-hover: #303a4a;
+  --ui-border: #465164;
+
+  --ui-text: #f3f6fb;
+  --ui-muted: #9ca9bb;
+
+  --ui-accent: #69c8f0;
+  --ui-accent-hover: #91daf8;
+  --ui-focus: #b4eeff;
+
+  --ui-danger: #df526b;
+  --ui-danger-hover: #ee6d82;
+}
